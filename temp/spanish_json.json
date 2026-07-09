@@ -1,0 +1,2833 @@
+[
+  {
+    "sent_id": 1,
+    "sentence_es": "La intervención de Argúello ha derivado en encontronazo con el Gobierno.",
+    "sentence_en": "Argúello's intervention has led to a clash with the Government.",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "La",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 2,
+        "form": "intervención",
+        "lemma": "intervención",
+        "lemma_en": "intervention",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 3,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 4,
+        "form": "Argúello",
+        "lemma": "Argúello",
+        "lemma_en": "Argüello",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 5,
+        "form": "ha",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 6,
+        "form": "derivado",
+        "lemma": "derivar",
+        "lemma_en": "derive",
+        "upos": "VERB",
+        "feats": "Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"
+      },
+      {
+        "id": 7,
+        "form": "en",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 8,
+        "form": "encontronazo",
+        "lemma": "encontronazo",
+        "lemma_en": "clash",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 9,
+        "form": "con",
+        "lemma": "con",
+        "lemma_en": "with",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 10,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 11,
+        "form": "Gobierno",
+        "lemma": "gobierno",
+        "lemma_en": "government",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 12,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  },
+  {
+    "sent_id": 2,
+    "sentence_es": "El ministro de Presidencia, Félix Bolaños, le ha replicado por carta este mismo jueves mostrando su “sorpresa” y aludiendo directamente a la expresión “banda de ladrones”.",
+    "sentence_en": "The Minister of the Presidency, Félix Bolaños, responded by letter this Thursday, showing his “surprise” and alluding directly to the expression “gang of thieves.”",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "El",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 2,
+        "form": "ministro",
+        "lemma": "ministro",
+        "lemma_en": "minister",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 3,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 4,
+        "form": "Presidencia",
+        "lemma": "Presidencia",
+        "lemma_en": "Presidency",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 5,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 6,
+        "form": "Félix",
+        "lemma": "Félix",
+        "lemma_en": "Felix",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 7,
+        "form": "Bolaños",
+        "lemma": "Bolaños",
+        "lemma_en": "Bolaños",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 8,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 9,
+        "form": "le",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Dat|Number=Sing|Person=3|PronType=Prs"
+      },
+      {
+        "id": 10,
+        "form": "ha",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 11,
+        "form": "replicado",
+        "lemma": "replicar",
+        "lemma_en": "replicate",
+        "upos": "VERB",
+        "feats": "Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"
+      },
+      {
+        "id": 12,
+        "form": "por",
+        "lemma": "por",
+        "lemma_en": "by",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 13,
+        "form": "carta",
+        "lemma": "carta",
+        "lemma_en": "letter",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 14,
+        "form": "este",
+        "lemma": "este",
+        "lemma_en": "this",
+        "upos": "DET",
+        "feats": "Gender=Masc|Number=Sing|PronType=Dem"
+      },
+      {
+        "id": 15,
+        "form": "mismo",
+        "lemma": "mismo",
+        "lemma_en": "same",
+        "upos": "DET",
+        "feats": "Gender=Masc|Number=Sing|PronType=Dem"
+      },
+      {
+        "id": 16,
+        "form": "jueves",
+        "lemma": "jueves",
+        "lemma_en": "Thursday",
+        "upos": "NOUN",
+        "feats": null
+      },
+      {
+        "id": 17,
+        "form": "mostrando",
+        "lemma": "mostrar",
+        "lemma_en": "show",
+        "upos": "VERB",
+        "feats": "VerbForm=Ger"
+      },
+      {
+        "id": 18,
+        "form": "su",
+        "lemma": "su",
+        "lemma_en": "his",
+        "upos": "DET",
+        "feats": "Number=Sing|Person=3|Poss=Yes|PronType=Prs"
+      },
+      {
+        "id": 19,
+        "form": "“",
+        "lemma": "\"",
+        "lemma_en": "“",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 20,
+        "form": "sorpresa",
+        "lemma": "sorpresa",
+        "lemma_en": "surprise",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 21,
+        "form": "”",
+        "lemma": "\"",
+        "lemma_en": "”",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 22,
+        "form": "y",
+        "lemma": "y",
+        "lemma_en": "and",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 23,
+        "form": "aludiendo",
+        "lemma": "aludir",
+        "lemma_en": "allude",
+        "upos": "VERB",
+        "feats": "VerbForm=Ger"
+      },
+      {
+        "id": 24,
+        "form": "directamente",
+        "lemma": "directamente",
+        "lemma_en": "directly",
+        "upos": "ADV",
+        "feats": null
+      },
+      {
+        "id": 25,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 26,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 27,
+        "form": "expresión",
+        "lemma": "expresión",
+        "lemma_en": "expression",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 28,
+        "form": "“",
+        "lemma": "\"",
+        "lemma_en": "“",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 29,
+        "form": "banda",
+        "lemma": "banda",
+        "lemma_en": "band",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 30,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 31,
+        "form": "ladrones",
+        "lemma": "ladrón",
+        "lemma_en": "thief",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Plur"
+      },
+      {
+        "id": 32,
+        "form": "”",
+        "lemma": "\"",
+        "lemma_en": "”",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 33,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  },
+  {
+    "sent_id": 3,
+    "sentence_es": "“Para mostrarle que su razonamiento no es solo injusto, sino profundamente contraproducente para la institución que usted preside, permítame hacerle una pregunta”, adelanta el ministro.",
+    "sentence_en": "“To show you that your reasoning is not only unfair, but also deeply counterproductive for the institution that you preside over, allow me to ask you a question,” the minister advances.",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "“",
+        "lemma": "\"",
+        "lemma_en": "“",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 2,
+        "form": "Para",
+        "lemma": "para",
+        "lemma_en": "for",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 3,
+        "form": "mostrar",
+        "lemma": "mostrar",
+        "lemma_en": "show",
+        "upos": "VERB",
+        "feats": "VerbForm=Inf"
+      },
+      {
+        "id": 4,
+        "form": "le",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Dat|Number=Sing|Person=3|PronType=Prs"
+      },
+      {
+        "id": 5,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 6,
+        "form": "su",
+        "lemma": "su",
+        "lemma_en": "his",
+        "upos": "DET",
+        "feats": "Number=Sing|Person=3|Poss=Yes|PronType=Prs"
+      },
+      {
+        "id": 7,
+        "form": "razonamiento",
+        "lemma": "razonamiento",
+        "lemma_en": "reasoning",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 8,
+        "form": "no",
+        "lemma": "no",
+        "lemma_en": "No",
+        "upos": "ADV",
+        "feats": "Polarity=Neg"
+      },
+      {
+        "id": 9,
+        "form": "es",
+        "lemma": "ser",
+        "lemma_en": "be",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 10,
+        "form": "solo",
+        "lemma": "sólo",
+        "lemma_en": "only",
+        "upos": "ADV",
+        "feats": null
+      },
+      {
+        "id": 11,
+        "form": "injusto",
+        "lemma": "injusto",
+        "lemma_en": "unfair",
+        "upos": "ADJ",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 12,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 13,
+        "form": "sino",
+        "lemma": "sino",
+        "lemma_en": "but",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 14,
+        "form": "profundamente",
+        "lemma": "profundamente",
+        "lemma_en": "deeply",
+        "upos": "ADV",
+        "feats": null
+      },
+      {
+        "id": 15,
+        "form": "contraproducente",
+        "lemma": "contraproducente",
+        "lemma_en": "counterproductive",
+        "upos": "ADJ",
+        "feats": "Number=Sing"
+      },
+      {
+        "id": 16,
+        "form": "para",
+        "lemma": "para",
+        "lemma_en": "for",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 17,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 18,
+        "form": "institución",
+        "lemma": "institución",
+        "lemma_en": "institution",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 19,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "PRON",
+        "feats": "PronType=Rel"
+      },
+      {
+        "id": 20,
+        "form": "usted",
+        "lemma": "tú",
+        "lemma_en": "you",
+        "upos": "PRON",
+        "feats": "Case=Acc,Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs"
+      },
+      {
+        "id": 21,
+        "form": "preside",
+        "lemma": "presidir",
+        "lemma_en": "preside",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 22,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 23,
+        "form": "permítame",
+        "lemma": "permítamer",
+        "lemma_en": "allow me",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 24,
+        "form": "hacer",
+        "lemma": "hacer",
+        "lemma_en": "do",
+        "upos": "VERB",
+        "feats": "VerbForm=Inf"
+      },
+      {
+        "id": 25,
+        "form": "le",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Dat|Number=Sing|Person=3|PronType=Prs"
+      },
+      {
+        "id": 26,
+        "form": "una",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 27,
+        "form": "pregunta",
+        "lemma": "pregunta",
+        "lemma_en": "ask",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 28,
+        "form": "”",
+        "lemma": "\"",
+        "lemma_en": "”",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 29,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 30,
+        "form": "adelanta",
+        "lemma": "adelantar",
+        "lemma_en": "pass",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 31,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 32,
+        "form": "ministro",
+        "lemma": "ministro",
+        "lemma_en": "minister",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 33,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  },
+  {
+    "sent_id": 4,
+    "sentence_es": "“¿Qué le parecería si un miembro del Gobierno calificase a la Iglesia entera como 'banda de agresores sexuales, a las pruebas me remito?",
+    "sentence_en": "“What would you think if a member of the Government described the entire Church as a 'gang of sexual offenders, I refer to the evidence?'",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "“",
+        "lemma": "\"",
+        "lemma_en": "“",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 2,
+        "form": "¿",
+        "lemma": "¿",
+        "lemma_en": "¿",
+        "upos": "PUNCT",
+        "feats": "PunctSide=Ini|PunctType=Qest"
+      },
+      {
+        "id": 3,
+        "form": "Qué",
+        "lemma": "qué",
+        "lemma_en": "that",
+        "upos": "PRON",
+        "feats": "Number=Sing|PronType=Int"
+      },
+      {
+        "id": 4,
+        "form": "le",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Dat|Number=Sing|Person=3|PronType=Prs"
+      },
+      {
+        "id": 5,
+        "form": "parecería",
+        "lemma": "parecer",
+        "lemma_en": "seem",
+        "upos": "VERB",
+        "feats": "Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin"
+      },
+      {
+        "id": 6,
+        "form": "si",
+        "lemma": "si",
+        "lemma_en": "Yeah",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 7,
+        "form": "un",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 8,
+        "form": "miembro",
+        "lemma": "miembro",
+        "lemma_en": "member",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 9,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 10,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 11,
+        "form": "Gobierno",
+        "lemma": "gobierno",
+        "lemma_en": "government",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 12,
+        "form": "calificase",
+        "lemma": "calificar",
+        "lemma_en": "qualify",
+        "upos": "VERB",
+        "feats": "Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin"
+      },
+      {
+        "id": 13,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 14,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 15,
+        "form": "Iglesia",
+        "lemma": "Iglesia",
+        "lemma_en": "Church",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 16,
+        "form": "entera",
+        "lemma": "entero",
+        "lemma_en": "whole",
+        "upos": "ADJ",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 17,
+        "form": "como",
+        "lemma": "como",
+        "lemma_en": "as",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 18,
+        "form": "'",
+        "lemma": "'",
+        "lemma_en": "'",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 19,
+        "form": "banda",
+        "lemma": "banda",
+        "lemma_en": "band",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 20,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 21,
+        "form": "agresores",
+        "lemma": "agresor",
+        "lemma_en": "aggressor",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Plur"
+      },
+      {
+        "id": 22,
+        "form": "sexuales",
+        "lemma": "sexual",
+        "lemma_en": "sexual",
+        "upos": "ADJ",
+        "feats": "Number=Plur"
+      },
+      {
+        "id": 23,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 24,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 25,
+        "form": "las",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Plur|PronType=Art"
+      },
+      {
+        "id": 26,
+        "form": "pruebas",
+        "lemma": "prueba",
+        "lemma_en": "proof",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Plur"
+      },
+      {
+        "id": 27,
+        "form": "me",
+        "lemma": "yo",
+        "lemma_en": "I",
+        "upos": "PRON",
+        "feats": "Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs"
+      },
+      {
+        "id": 28,
+        "form": "remito",
+        "lemma": "remitar",
+        "lemma_en": "refer",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 29,
+        "form": "?",
+        "lemma": "?",
+        "lemma_en": "?",
+        "upos": "PUNCT",
+        "feats": "PunctSide=Fin|PunctType=Qest"
+      }
+    ]
+  },
+  {
+    "sent_id": 5,
+    "sentence_es": "Evidentemente sería falso y profundamente injusto”, le dice.",
+    "sentence_en": "Obviously it would be false and deeply unfair,” he tells her.",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "Evidentemente",
+        "lemma": "evidentemente",
+        "lemma_en": "obviously",
+        "upos": "ADV",
+        "feats": null
+      },
+      {
+        "id": 2,
+        "form": "sería",
+        "lemma": "ser",
+        "lemma_en": "be",
+        "upos": "AUX",
+        "feats": "Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin"
+      },
+      {
+        "id": 3,
+        "form": "falso",
+        "lemma": "falso",
+        "lemma_en": "fake",
+        "upos": "ADJ",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 4,
+        "form": "y",
+        "lemma": "y",
+        "lemma_en": "and",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 5,
+        "form": "profundamente",
+        "lemma": "profundamente",
+        "lemma_en": "deeply",
+        "upos": "ADV",
+        "feats": null
+      },
+      {
+        "id": 6,
+        "form": "injusto",
+        "lemma": "injusto",
+        "lemma_en": "unfair",
+        "upos": "ADJ",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 7,
+        "form": "”",
+        "lemma": "\"",
+        "lemma_en": "”",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 8,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 9,
+        "form": "le",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Dat|Number=Sing|Person=3|PronType=Prs"
+      },
+      {
+        "id": 10,
+        "form": "dice",
+        "lemma": "decir",
+        "lemma_en": "say",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 11,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  },
+  {
+    "sent_id": 6,
+    "sentence_es": "Bolaños ha instado al prelado a que las relaciones de la Conferencia Episcopal con el Gobierno estén “marcadas por la moderación, el respeto y la justicia en lugar de por la exageración y el partidismo en favor de las fuerzas de la derecha y la ultraderecha”, y le ha recordado unas palabras que atribuye a León XIV en su reciente viaje apostólico a España: “Quienes ejercen una responsabilidad pública tienen una especial obligación de custodiar la palabra para desarmar el lenguaje”.",
+    "sentence_en": "Bolaños has urged the prelate that the relations of the Episcopal Conference with the Government be \"marked by moderation, respect and justice instead of by exaggeration and partisanship in favor of the forces of the right and the extreme right\", and has reminded him of some words that he attributes to Leo XIV on his recent apostolic trip to Spain: \"Those who exercise public responsibility have a special obligation to guard the word to dismantle language.\"",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "Bolaños",
+        "lemma": "Bolaños",
+        "lemma_en": "Bolaños",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 2,
+        "form": "ha",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 3,
+        "form": "instado",
+        "lemma": "instar",
+        "lemma_en": "urge",
+        "upos": "VERB",
+        "feats": "Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"
+      },
+      {
+        "id": 4,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 5,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 6,
+        "form": "prelado",
+        "lemma": "prelado",
+        "lemma_en": "prelate",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 7,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 8,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 9,
+        "form": "las",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Plur|PronType=Art"
+      },
+      {
+        "id": 10,
+        "form": "relaciones",
+        "lemma": "relación",
+        "lemma_en": "relationship",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Plur"
+      },
+      {
+        "id": 11,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 12,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 13,
+        "form": "Conferencia",
+        "lemma": "Conferencia",
+        "lemma_en": "Conference",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 14,
+        "form": "Episcopal",
+        "lemma": "Episcopal",
+        "lemma_en": "Episcopal",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 15,
+        "form": "con",
+        "lemma": "con",
+        "lemma_en": "with",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 16,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 17,
+        "form": "Gobierno",
+        "lemma": "gobierno",
+        "lemma_en": "government",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 18,
+        "form": "estén",
+        "lemma": "estar",
+        "lemma_en": "be",
+        "upos": "AUX",
+        "feats": "Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 19,
+        "form": "“",
+        "lemma": "\"",
+        "lemma_en": "“",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 20,
+        "form": "marcadas",
+        "lemma": "marcado",
+        "lemma_en": "marked",
+        "upos": "ADJ",
+        "feats": "Gender=Fem|Number=Plur|VerbForm=Part"
+      },
+      {
+        "id": 21,
+        "form": "por",
+        "lemma": "por",
+        "lemma_en": "by",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 22,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 23,
+        "form": "moderación",
+        "lemma": "moderación",
+        "lemma_en": "moderation",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 24,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 25,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 26,
+        "form": "respeto",
+        "lemma": "respeto",
+        "lemma_en": "I respect",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 27,
+        "form": "y",
+        "lemma": "y",
+        "lemma_en": "and",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 28,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 29,
+        "form": "justicia",
+        "lemma": "justicia",
+        "lemma_en": "justice",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 30,
+        "form": "en",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 31,
+        "form": "lugar",
+        "lemma": "lugar",
+        "lemma_en": "place",
+        "upos": "NOUN",
+        "feats": null
+      },
+      {
+        "id": 32,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 33,
+        "form": "por",
+        "lemma": "por",
+        "lemma_en": "by",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 34,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 35,
+        "form": "exageración",
+        "lemma": "exageración",
+        "lemma_en": "exaggeration",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 36,
+        "form": "y",
+        "lemma": "y",
+        "lemma_en": "and",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 37,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 38,
+        "form": "partidismo",
+        "lemma": "partidismo",
+        "lemma_en": "partisanship",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 39,
+        "form": "en",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 40,
+        "form": "favor",
+        "lemma": "favor",
+        "lemma_en": "favor",
+        "upos": "NOUN",
+        "feats": null
+      },
+      {
+        "id": 41,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 42,
+        "form": "las",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Plur|PronType=Art"
+      },
+      {
+        "id": 43,
+        "form": "fuerzas",
+        "lemma": "fuerza",
+        "lemma_en": "force",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Plur"
+      },
+      {
+        "id": 44,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 45,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 46,
+        "form": "derecha",
+        "lemma": "derecha",
+        "lemma_en": "right",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 47,
+        "form": "y",
+        "lemma": "y",
+        "lemma_en": "and",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 48,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 49,
+        "form": "ultraderecha",
+        "lemma": "ultraderecha",
+        "lemma_en": "far right",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 50,
+        "form": "”",
+        "lemma": "\"",
+        "lemma_en": "”",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 51,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 52,
+        "form": "y",
+        "lemma": "y",
+        "lemma_en": "and",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 53,
+        "form": "le",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Dat|Number=Sing|Person=3|PronType=Prs"
+      },
+      {
+        "id": 54,
+        "form": "ha",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 55,
+        "form": "recordado",
+        "lemma": "recordar",
+        "lemma_en": "remember",
+        "upos": "VERB",
+        "feats": "Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"
+      },
+      {
+        "id": 56,
+        "form": "unas",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Fem|Number=Plur|PronType=Art"
+      },
+      {
+        "id": 57,
+        "form": "palabras",
+        "lemma": "palabra",
+        "lemma_en": "word",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Plur"
+      },
+      {
+        "id": 58,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "PRON",
+        "feats": "PronType=Rel"
+      },
+      {
+        "id": 59,
+        "form": "atribuye",
+        "lemma": "atribuir",
+        "lemma_en": "attribute",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 60,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 61,
+        "form": "León",
+        "lemma": "León",
+        "lemma_en": "Lion",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 62,
+        "form": "XIV",
+        "lemma": "xiv",
+        "lemma_en": "xiv",
+        "upos": "NUM",
+        "feats": "NumForm=Roman|NumType=Card"
+      },
+      {
+        "id": 63,
+        "form": "en",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 64,
+        "form": "su",
+        "lemma": "su",
+        "lemma_en": "his",
+        "upos": "DET",
+        "feats": "Number=Sing|Person=3|Poss=Yes|PronType=Prs"
+      },
+      {
+        "id": 65,
+        "form": "reciente",
+        "lemma": "reciente",
+        "lemma_en": "recent",
+        "upos": "ADJ",
+        "feats": "Number=Sing"
+      },
+      {
+        "id": 66,
+        "form": "viaje",
+        "lemma": "viaje",
+        "lemma_en": "journey",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 67,
+        "form": "apostólico",
+        "lemma": "apostólico",
+        "lemma_en": "apostolic",
+        "upos": "ADJ",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 68,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 69,
+        "form": "España",
+        "lemma": "España",
+        "lemma_en": "Spain",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 70,
+        "form": ":",
+        "lemma": ":",
+        "lemma_en": ":",
+        "upos": "PUNCT",
+        "feats": "PunctType=Colo"
+      },
+      {
+        "id": 71,
+        "form": "“",
+        "lemma": "\"",
+        "lemma_en": "“",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 72,
+        "form": "Quienes",
+        "lemma": "quien",
+        "lemma_en": "who",
+        "upos": "PRON",
+        "feats": "Number=Plur|PronType=Rel"
+      },
+      {
+        "id": 73,
+        "form": "ejercen",
+        "lemma": "ejercer",
+        "lemma_en": "exercise",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 74,
+        "form": "una",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 75,
+        "form": "responsabilidad",
+        "lemma": "responsabilidad",
+        "lemma_en": "responsibility",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 76,
+        "form": "pública",
+        "lemma": "público",
+        "lemma_en": "public",
+        "upos": "ADJ",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 77,
+        "form": "tienen",
+        "lemma": "tener",
+        "lemma_en": "have",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 78,
+        "form": "una",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 79,
+        "form": "especial",
+        "lemma": "especial",
+        "lemma_en": "special",
+        "upos": "ADJ",
+        "feats": "Number=Sing"
+      },
+      {
+        "id": 80,
+        "form": "obligación",
+        "lemma": "obligación",
+        "lemma_en": "obligation",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 81,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 82,
+        "form": "custodiar",
+        "lemma": "custodiar",
+        "lemma_en": "guard",
+        "upos": "VERB",
+        "feats": "VerbForm=Inf"
+      },
+      {
+        "id": 83,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 84,
+        "form": "palabra",
+        "lemma": "palabra",
+        "lemma_en": "word",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 85,
+        "form": "para",
+        "lemma": "para",
+        "lemma_en": "for",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 86,
+        "form": "desarmar",
+        "lemma": "desarmar",
+        "lemma_en": "disarm",
+        "upos": "VERB",
+        "feats": "VerbForm=Inf"
+      },
+      {
+        "id": 87,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 88,
+        "form": "lenguaje",
+        "lemma": "lenguaje",
+        "lemma_en": "language",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 89,
+        "form": "”",
+        "lemma": "\"",
+        "lemma_en": "”",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 90,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  },
+  {
+    "sent_id": 7,
+    "sentence_es": "En su charla, Argúello ha recalcado que esa exigencia ética a los dirigentes políticos tiene que partir del buen ejemplo de los ciudadanos.",
+    "sentence_en": "In his talk, Argúello stressed that this ethical demand for political leaders must be based on the good example of citizens.",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "En",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 2,
+        "form": "su",
+        "lemma": "su",
+        "lemma_en": "his",
+        "upos": "DET",
+        "feats": "Number=Sing|Person=3|Poss=Yes|PronType=Prs"
+      },
+      {
+        "id": 3,
+        "form": "charla",
+        "lemma": "charla",
+        "lemma_en": "chat",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 4,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 5,
+        "form": "Argúello",
+        "lemma": "Argúello",
+        "lemma_en": "Argüello",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 6,
+        "form": "ha",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 7,
+        "form": "recalcado",
+        "lemma": "recalcar",
+        "lemma_en": "emphasize",
+        "upos": "VERB",
+        "feats": "Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"
+      },
+      {
+        "id": 8,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 9,
+        "form": "esa",
+        "lemma": "ese",
+        "lemma_en": "that",
+        "upos": "DET",
+        "feats": "Gender=Fem|Number=Sing|PronType=Dem"
+      },
+      {
+        "id": 10,
+        "form": "exigencia",
+        "lemma": "exigencia",
+        "lemma_en": "requirement",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 11,
+        "form": "ética",
+        "lemma": "ético",
+        "lemma_en": "ethical",
+        "upos": "ADJ",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 12,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 13,
+        "form": "los",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Plur|PronType=Art"
+      },
+      {
+        "id": 14,
+        "form": "dirigentes",
+        "lemma": "dirigente",
+        "lemma_en": "leader",
+        "upos": "NOUN",
+        "feats": "Number=Plur"
+      },
+      {
+        "id": 15,
+        "form": "políticos",
+        "lemma": "político",
+        "lemma_en": "political",
+        "upos": "ADJ",
+        "feats": "Gender=Masc|Number=Plur"
+      },
+      {
+        "id": 16,
+        "form": "tiene",
+        "lemma": "tener",
+        "lemma_en": "have",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 17,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 18,
+        "form": "partir",
+        "lemma": "partir",
+        "lemma_en": "leave",
+        "upos": "NOUN",
+        "feats": null
+      },
+      {
+        "id": 19,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 20,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 21,
+        "form": "buen",
+        "lemma": "buen",
+        "lemma_en": "good",
+        "upos": "ADJ",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 22,
+        "form": "ejemplo",
+        "lemma": "ejemplo",
+        "lemma_en": "example",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 23,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 24,
+        "form": "los",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Plur|PronType=Art"
+      },
+      {
+        "id": 25,
+        "form": "ciudadanos",
+        "lemma": "ciudadano",
+        "lemma_en": "citizen",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Plur"
+      },
+      {
+        "id": 26,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  },
+  {
+    "sent_id": 8,
+    "sentence_es": "“Si hemos hecho trampas en el solitario a la hora de hacer la declaración de la renta, porque pensamos que ese es el pan de nuestros hijos, o si pedimos un contrato o mejor una factura en negro, ¡ojo!, porque las referencias éticas son para todos.",
+    "sentence_en": "“If we have cheated in solitaire when filing our income tax return, because we think that this is our children's bread, or if we ask for a contract or better yet a black invoice, be careful! Because ethical references are for everyone.",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "“",
+        "lemma": "\"",
+        "lemma_en": "“",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 2,
+        "form": "Si",
+        "lemma": "si",
+        "lemma_en": "Yeah",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 3,
+        "form": "hemos",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 4,
+        "form": "hecho",
+        "lemma": "hacer",
+        "lemma_en": "do",
+        "upos": "VERB",
+        "feats": "Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"
+      },
+      {
+        "id": 5,
+        "form": "trampas",
+        "lemma": "trampa",
+        "lemma_en": "trap",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Plur"
+      },
+      {
+        "id": 6,
+        "form": "en",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 7,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 8,
+        "form": "solitario",
+        "lemma": "solitario",
+        "lemma_en": "lonely",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 9,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 10,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 11,
+        "form": "hora",
+        "lemma": "hora",
+        "lemma_en": "hour",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 12,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 13,
+        "form": "hacer",
+        "lemma": "hacer",
+        "lemma_en": "do",
+        "upos": "VERB",
+        "feats": "VerbForm=Inf"
+      },
+      {
+        "id": 14,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 15,
+        "form": "declaración",
+        "lemma": "declaración",
+        "lemma_en": "statement",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 16,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 17,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 18,
+        "form": "renta",
+        "lemma": "renta",
+        "lemma_en": "rent",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 19,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 20,
+        "form": "porque",
+        "lemma": "porque",
+        "lemma_en": "because",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 21,
+        "form": "pensamos",
+        "lemma": "pensar",
+        "lemma_en": "think",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 22,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 23,
+        "form": "ese",
+        "lemma": "ese",
+        "lemma_en": "that",
+        "upos": "PRON",
+        "feats": "Gender=Masc|Number=Sing|PronType=Dem"
+      },
+      {
+        "id": 24,
+        "form": "es",
+        "lemma": "ser",
+        "lemma_en": "be",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 25,
+        "form": "el",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 26,
+        "form": "pan",
+        "lemma": "pan",
+        "lemma_en": "bread",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 27,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 28,
+        "form": "nuestros",
+        "lemma": "nuestro",
+        "lemma_en": "our",
+        "upos": "DET",
+        "feats": "Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs"
+      },
+      {
+        "id": 29,
+        "form": "hijos",
+        "lemma": "hijo",
+        "lemma_en": "son",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Plur"
+      },
+      {
+        "id": 30,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 31,
+        "form": "o",
+        "lemma": "o",
+        "lemma_en": "either",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 32,
+        "form": "si",
+        "lemma": "si",
+        "lemma_en": "Yeah",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 33,
+        "form": "pedimos",
+        "lemma": "pedir",
+        "lemma_en": "ask",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 34,
+        "form": "un",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 35,
+        "form": "contrato",
+        "lemma": "contrato",
+        "lemma_en": "contract",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 36,
+        "form": "o",
+        "lemma": "o",
+        "lemma_en": "either",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 37,
+        "form": "mejor",
+        "lemma": "mejor",
+        "lemma_en": "better",
+        "upos": "ADJ",
+        "feats": "Degree=Cmp|Number=Sing"
+      },
+      {
+        "id": 38,
+        "form": "una",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 39,
+        "form": "factura",
+        "lemma": "factura",
+        "lemma_en": "bill",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 40,
+        "form": "en",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 41,
+        "form": "negro",
+        "lemma": "negro",
+        "lemma_en": "black",
+        "upos": "NOUN",
+        "feats": "Gender=Masc"
+      },
+      {
+        "id": 42,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 43,
+        "form": "¡",
+        "lemma": "¡",
+        "lemma_en": "¡",
+        "upos": "PUNCT",
+        "feats": "PunctSide=Ini|PunctType=Excl"
+      },
+      {
+        "id": 44,
+        "form": "ojo",
+        "lemma": "ojo",
+        "lemma_en": "eye",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 45,
+        "form": "!",
+        "lemma": "!",
+        "lemma_en": "!",
+        "upos": "PUNCT",
+        "feats": "PunctSide=Fin|PunctType=Excl"
+      },
+      {
+        "id": 46,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 47,
+        "form": "porque",
+        "lemma": "porque",
+        "lemma_en": "because",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 48,
+        "form": "las",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Plur|PronType=Art"
+      },
+      {
+        "id": 49,
+        "form": "referencias",
+        "lemma": "referencia",
+        "lemma_en": "reference",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Plur"
+      },
+      {
+        "id": 50,
+        "form": "éticas",
+        "lemma": "ético",
+        "lemma_en": "ethical",
+        "upos": "ADJ",
+        "feats": "Gender=Fem|Number=Plur"
+      },
+      {
+        "id": 51,
+        "form": "son",
+        "lemma": "ser",
+        "lemma_en": "be",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 52,
+        "form": "para",
+        "lemma": "para",
+        "lemma_en": "for",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 53,
+        "form": "todos",
+        "lemma": "todo",
+        "lemma_en": "all",
+        "upos": "PRON",
+        "feats": "Gender=Masc|Number=Plur|PronType=Tot"
+      },
+      {
+        "id": 54,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  },
+  {
+    "sent_id": 9,
+    "sentence_es": "Porque si no hay un pueblo, un demos, con referencia ética, ¿cómo vas a exigirlo a alguien que sea tu representante?”, se ha preguntado en la clausura de la Escuela de Verano organizada por la Conferencia Episcopal Española, la Universidad Pontificia de Salamanca y la Fundación Pablo VI.",
+    "sentence_en": "Because if there is no people, a demos, with ethical reference, how are you going to demand it from someone who is your representative?” he asked at the closing of the Summer School organized by the Spanish Episcopal Conference, the Pontifical University of Salamanca and the Pablo VI Foundation.",
+    "tokens": [
+      {
+        "id": 1,
+        "form": "Porque",
+        "lemma": "porque",
+        "lemma_en": "because",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 2,
+        "form": "si",
+        "lemma": "si",
+        "lemma_en": "Yeah",
+        "upos": "SCONJ",
+        "feats": null
+      },
+      {
+        "id": 3,
+        "form": "no",
+        "lemma": "no",
+        "lemma_en": "No",
+        "upos": "ADV",
+        "feats": "Polarity=Neg"
+      },
+      {
+        "id": 4,
+        "form": "hay",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 5,
+        "form": "un",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 6,
+        "form": "pueblo",
+        "lemma": "pueblo",
+        "lemma_en": "town",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Sing"
+      },
+      {
+        "id": 7,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 8,
+        "form": "un",
+        "lemma": "uno",
+        "lemma_en": "one",
+        "upos": "DET",
+        "feats": "Definite=Ind|Gender=Masc|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 9,
+        "form": "demos",
+        "lemma": "demos",
+        "lemma_en": "let's give",
+        "upos": "NOUN",
+        "feats": "Gender=Masc|Number=Plur"
+      },
+      {
+        "id": 10,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 11,
+        "form": "con",
+        "lemma": "con",
+        "lemma_en": "with",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 12,
+        "form": "referencia",
+        "lemma": "referencia",
+        "lemma_en": "reference",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 13,
+        "form": "ética",
+        "lemma": "ético",
+        "lemma_en": "ethical",
+        "upos": "ADJ",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 14,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 15,
+        "form": "¿",
+        "lemma": "¿",
+        "lemma_en": "¿",
+        "upos": "PUNCT",
+        "feats": "PunctSide=Ini|PunctType=Qest"
+      },
+      {
+        "id": 16,
+        "form": "cómo",
+        "lemma": "cómo",
+        "lemma_en": "as",
+        "upos": "PRON",
+        "feats": "PronType=Ind"
+      },
+      {
+        "id": 17,
+        "form": "vas",
+        "lemma": "ir",
+        "lemma_en": "go",
+        "upos": "VERB",
+        "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 18,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 19,
+        "form": "exigir",
+        "lemma": "exigir",
+        "lemma_en": "demand",
+        "upos": "VERB",
+        "feats": "VerbForm=Inf"
+      },
+      {
+        "id": 20,
+        "form": "lo",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs"
+      },
+      {
+        "id": 21,
+        "form": "a",
+        "lemma": "a",
+        "lemma_en": "to",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 22,
+        "form": "alguien",
+        "lemma": "alguien",
+        "lemma_en": "someone",
+        "upos": "PRON",
+        "feats": "Number=Sing|PronType=Ind"
+      },
+      {
+        "id": 23,
+        "form": "que",
+        "lemma": "que",
+        "lemma_en": "that",
+        "upos": "PRON",
+        "feats": "PronType=Rel"
+      },
+      {
+        "id": 24,
+        "form": "sea",
+        "lemma": "ser",
+        "lemma_en": "be",
+        "upos": "AUX",
+        "feats": "Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 25,
+        "form": "tu",
+        "lemma": "tu",
+        "lemma_en": "you",
+        "upos": "DET",
+        "feats": "Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs"
+      },
+      {
+        "id": 26,
+        "form": "representante",
+        "lemma": "representante",
+        "lemma_en": "representative",
+        "upos": "NOUN",
+        "feats": "Number=Sing"
+      },
+      {
+        "id": 27,
+        "form": "?",
+        "lemma": "?",
+        "lemma_en": "?",
+        "upos": "PUNCT",
+        "feats": "PunctSide=Fin|PunctType=Qest"
+      },
+      {
+        "id": 28,
+        "form": "”",
+        "lemma": "\"",
+        "lemma_en": "”",
+        "upos": "PUNCT",
+        "feats": "PunctType=Quot"
+      },
+      {
+        "id": 29,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 30,
+        "form": "se",
+        "lemma": "él",
+        "lemma_en": "he",
+        "upos": "PRON",
+        "feats": "Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes"
+      },
+      {
+        "id": 31,
+        "form": "ha",
+        "lemma": "haber",
+        "lemma_en": "have",
+        "upos": "AUX",
+        "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+        "id": 32,
+        "form": "preguntado",
+        "lemma": "preguntar",
+        "lemma_en": "ask",
+        "upos": "VERB",
+        "feats": "Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"
+      },
+      {
+        "id": 33,
+        "form": "en",
+        "lemma": "en",
+        "lemma_en": "in",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 34,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 35,
+        "form": "clausura",
+        "lemma": "clausura",
+        "lemma_en": "closing",
+        "upos": "NOUN",
+        "feats": "Gender=Fem|Number=Sing"
+      },
+      {
+        "id": 36,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 37,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 38,
+        "form": "Escuela",
+        "lemma": "Escuela",
+        "lemma_en": "School",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 39,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 40,
+        "form": "Verano",
+        "lemma": "Verano",
+        "lemma_en": "Summer",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 41,
+        "form": "organizada",
+        "lemma": "organizado",
+        "lemma_en": "organized",
+        "upos": "ADJ",
+        "feats": "Gender=Fem|Number=Sing|VerbForm=Part"
+      },
+      {
+        "id": 42,
+        "form": "por",
+        "lemma": "por",
+        "lemma_en": "by",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 43,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 44,
+        "form": "Conferencia",
+        "lemma": "Conferencia",
+        "lemma_en": "Conference",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 45,
+        "form": "Episcopal",
+        "lemma": "Episcopal",
+        "lemma_en": "Episcopal",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 46,
+        "form": "Española",
+        "lemma": "Española",
+        "lemma_en": "Spanish",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 47,
+        "form": ",",
+        "lemma": ",",
+        "lemma_en": ",",
+        "upos": "PUNCT",
+        "feats": "PunctType=Comm"
+      },
+      {
+        "id": 48,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 49,
+        "form": "Universidad",
+        "lemma": "universidad",
+        "lemma_en": "university",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 50,
+        "form": "Pontificia",
+        "lemma": "pontificio",
+        "lemma_en": "pontifical",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 51,
+        "form": "de",
+        "lemma": "de",
+        "lemma_en": "of",
+        "upos": "ADP",
+        "feats": null
+      },
+      {
+        "id": 52,
+        "form": "Salamanca",
+        "lemma": "Salamanca",
+        "lemma_en": "Salamanca",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 53,
+        "form": "y",
+        "lemma": "y",
+        "lemma_en": "and",
+        "upos": "CCONJ",
+        "feats": null
+      },
+      {
+        "id": 54,
+        "form": "la",
+        "lemma": "el",
+        "lemma_en": "he",
+        "upos": "DET",
+        "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art"
+      },
+      {
+        "id": 55,
+        "form": "Fundación",
+        "lemma": "Fundación",
+        "lemma_en": "Foundation",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 56,
+        "form": "Pablo",
+        "lemma": "Pablo",
+        "lemma_en": "Pablo",
+        "upos": "PROPN",
+        "feats": null
+      },
+      {
+        "id": 57,
+        "form": "VI",
+        "lemma": "vi",
+        "lemma_en": "I saw",
+        "upos": "NUM",
+        "feats": "NumForm=Roman|NumType=Card"
+      },
+      {
+        "id": 58,
+        "form": ".",
+        "lemma": ".",
+        "lemma_en": ".",
+        "upos": "PUNCT",
+        "feats": "PunctType=Peri"
+      }
+    ]
+  }
+]
