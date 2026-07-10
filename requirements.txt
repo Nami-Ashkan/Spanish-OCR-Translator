@@ -1,0 +1,4 @@
+deep-translator>=1.11.4
+reportlab>=4.0.0
+spacy>=3.8.0
+stanza>=1.10.0
